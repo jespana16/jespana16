@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <h1>
-    Hey There I'm Jeferson España<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/>
+    Hi, I'm Jeferson España<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"/>
   </h1>
   
-  <img src="https://media1.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="10%"/>
+  <img src="https://media1.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="20%"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jeferson-espa%C3%B1a942309/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
