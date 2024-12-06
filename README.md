@@ -55,7 +55,6 @@ I am a Colombian 🇨🇴 Mechatronic Engineer with 4 years of experience in QA 
 
 
 ---
-### :fire: My Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jespana16&layout=compact&theme=vision-friendly-dark" width="600"/>
 </div>
